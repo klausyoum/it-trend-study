@@ -16,5 +16,6 @@ https://www.itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?select
     - GDB의 시장
         - 가트너에서 2019년 10대 데이터 분석 기술 트렌드에 '그래프' 데이터 분석이 포함.
         - 2022년까지 GDB 시장이 연간 100% 성장 예상.
-        - GDB는 AI와 ML이 통합된 Knowledge Grapsh로 많이 활용.     
+        - GDB는 AI와 ML이 통합된 Knowledge Grapsh로 많이 활용.
+    - 비트나인: 대한민국의 그래프 데이터베이스 연구개발 전문 기업, https://bitnine.tistory.com/
     
