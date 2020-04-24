@@ -19,3 +19,17 @@ https://www.itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?select
         - GDB는 AI와 ML이 통합된 Knowledge Grapsh로 많이 활용.
     - 비트나인: 대한민국의 그래프 데이터베이스 연구개발 전문 기업, https://bitnine.tistory.com/
     
+## 서버리스 Serverless 아키텍처 파헤치기
+https://futurecreator.github.io/2019/03/14/serverless-architecture/
+https://brunch.co.kr/@yesjun/3
+https://velopert.com/3543
+
+**@klaus.youm**
+- Serverless
+    - 'Server가 없다(-less)는 뜻. 서버에서 처리하는 작업을 클라우드 기반의 서비스로 처리해서, 서버 구축 및 관리 비용을 줄이는 구조
+    - 개발 기간과 비용을 단축 + 서버 운영과 유지 보수의 어려움을 크게 줄임.
+    - AWS Lambda, Azure Functions, Google Cloud Functions
+    - 서버리스는 두 가지 개념
+        - Serviceful Serverless, BaaS(Backend as a Service): 서버의 역할을 서비스 형태로 사용하는 것을 의미. Public Cloud의 많은 종류의 서비스들(머신 러닝, 모바일 백엔드, 블록체인, IoT 등)
+        - FaaS(Functions as a Service): 함수를 서비스로 제공하는 형태. 사용자가 원하는 로직을 함수로 작성만 해놓으면 (특정 조건 하에) 함수가 실행됨. AWS Lambda
+    - 서버리스는 만병통치약이 아니기 때문에, 기존 구성 요소를 모두 대체할 수 없음. 모든 장단점을 고려하여 비즈니스 및 기술 요구사항을 면밀히 분석 필요.
