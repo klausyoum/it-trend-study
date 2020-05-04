@@ -14,4 +14,5 @@ https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/
 
 ## 서버스펙을 사용한 도커 이미지 테스트 자동화 - RSpec 기반 인프라스트럭처 테스트 프레임워크
 https://www.44bits.io/ko/post/automating-docker-image-test-using-server-spec
+
 https://serverspec.org/
