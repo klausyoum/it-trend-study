@@ -15,4 +15,7 @@ https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/
 ## 서버스펙을 사용한 도커 이미지 테스트 자동화 - RSpec 기반 인프라스트럭처 테스트 프레임워크
 https://www.44bits.io/ko/post/automating-docker-image-test-using-server-spec
 
-https://serverspec.org/
+**@klaus.youm**
+- Serverspec은 원래 SSH를 사용해 구성 관리 도구와 함께 사용을 목적으로 만들어진 도구
+- 단순히 기존 서버 환경 뿐만 아니라, 빌드를 통해 완성된 이미지를 구성하는 도커와 같은 컨테이너 시스템을 테스트 가능
+- Chef Inspec도 널리 알려진 오픈소스 툴임.
